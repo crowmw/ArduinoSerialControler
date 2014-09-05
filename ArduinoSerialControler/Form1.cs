@@ -15,7 +15,7 @@ namespace ArduinoSerialControler
         string data;
 
         public MainForm()
-        {
+        { 
             InitializeComponent();
             StartButton.Enabled = false;
             StopButton.Enabled = false;
